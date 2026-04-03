@@ -1,3 +1,3 @@
 * [Main Page](/) 
 
-* [Page 2](page2)
+* [Custom Items](custom-items)
